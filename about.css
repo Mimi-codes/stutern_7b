@@ -1,0 +1,30 @@
+
+.stories .b {
+    color: white;
+}
+
+.stories a {
+    text-decoration: none;
+}
+
+.panel {
+    margin-top: 1rem;
+    display: flex;
+}
+
+.claim {
+    border: 1px solid gray;
+    border-radius: 5rem;
+    padding: 0.5rem 0.7rem;
+    margin-right: 9rem;
+}
+
+.line_2 {
+    width: 25rem;
+    margin-top: 0.8rem;
+}
+
+.stats_1 {
+    display: flex;
+}
+

@@ -1,0 +1,155 @@
+.overview {
+    display: flex;
+color: white;
+margin-top: 1.5rem;
+margin-left: 10rem;
+}
+
+.sec {
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    margin-left: 10rem;
+    color: gray;
+}
+
+.ball {
+    display: flex;;
+}
+
+.ball p:nth-child(2) {
+    margin-left: 0.8rem;
+}
+
+.overview .b {
+    display: flex;
+    margin-top: 0.6rem;
+    margin-left: 1.5rem;
+}
+
+.overview .b p {
+    margin-right: 0.5rem;
+    background: #46474c;
+ border: 1px solid #39393b;
+   border-radius: 5rem;
+ padding: 0.4rem 1rem;
+}
+
+.overview .b p:nth-child(1) {
+    border: 1px solid white;
+}
+
+.stats_images {
+    display: flex;
+    margin-left: 10rem;
+    margin-top: 1rem;
+}
+
+.multi_img {
+    width: 30rem;
+    height: 21rem;
+}
+
+
+.stats {
+    background:  #46474c;
+    border-radius: 20px;
+    height: 54vh;
+    color: white;
+    padding: 0.8rem;
+    margin-left: 1.5rem;
+}
+
+.arg {
+margin-top: 2rem;
+margin-bottom: 4rem;
+}
+
+.matches p {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.matches {
+    width: 18rem;
+}
+
+.matches .a, .matches .b, .matches .c, .matches .d {
+    display: flex;
+}
+
+.match {
+    margin-right: 9rem;
+}
+
+.match_1 {
+    margin-left: 4rem;
+}
+
+.match_2 {
+    margin-left: 12.5rem;
+}
+
+.match_3 {
+    margin-left: 4.8rem;
+}
+
+.match_4 {
+    margin-left: 2.5rem;
+}
+
+.height_div .a {
+    display: flex;
+}
+
+.height {
+    background:  #46474c;
+    margin-left: 1.8rem;
+    height: 24vh;
+    color: white;
+    padding: 0.8rem;
+    width: 8rem;
+    border-radius: 20px;
+}
+
+.meter {
+    margin-top: 4.6rem;
+}
+
+.age {
+    background:  #46474c;
+    margin-left: 1rem;
+    height: 24vh;
+    color: white;
+    padding: 0.8rem;
+    width: 8rem;
+    border-radius: 20px;
+}
+
+.years {
+    margin-top: 2.2rem;
+}
+
+.below_height {
+    background:  #46474c;
+    margin-left: 1.8rem;
+    height: 25vh;
+    color: white;
+    padding: 0.8rem;
+    width: 17rem;
+    border-radius: 20px;
+    display: flex;
+    margin-top: 2rem;
+}
+
+.below_height_text {
+    /* margin-top: 2rem; */
+}
+
+.li_img {
+    width: 5rem;
+    height: 5rem;
+}
+
+.day {
+    margin-top: 2rem;
+}

@@ -1,0 +1,41 @@
+.also_ask h5 {
+    color: white;
+    font-size: 1.3rem;
+    margin: 1rem 0;
+}
+
+.also_ask .a, .also_ask .b, .also_ask .c, .also_ask .d {
+    padding: 0.5rem 0;
+}
+
+.also_ask .a a, .also_ask .b a, .also_ask .c a, .also_ask .d a {
+    /* color: gray; */
+}
+
+.messi_wiki {
+    margin-top: 4rem;
+}
+
+.messi_wiki .wik {
+    color: gray;
+}
+
+.lion {
+    margin-bottom: 1rem;
+    color: gray;
+    margin-right: 2rem;
+}
+
+.mirror {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.messi_img {
+    border-radius: 4px;
+ height: 6rem;   
+}
+
+.messi_1 .a {
+    display: flex;
+}

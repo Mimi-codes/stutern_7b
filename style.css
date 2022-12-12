@@ -1,0 +1,176 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #202124;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav {
+    display: flex;
+margin: 2rem 1.5rem 1rem 1.5rem;
+}
+
+.g_logo {
+    width: 6rem;
+    margin-top: 1rem;
+}
+
+.search {
+    display: flex;
+    width: 45rem;
+    background: #303134;
+    padding-top: 0.8rem;
+ padding-left: 1.5rem;
+ padding-right: 1.5rem;
+    margin-left: 2.5rem;
+   margin-right: 20rem;
+    border-radius: 5rem;
+}
+
+.messi {
+    color: white;
+    margin-right: -2.5rem;
+     }
+
+     img {
+        border-radius: 5px;
+     }
+
+.close {
+    margin-left: 25rem;
+    margin-right: 1rem;
+}
+
+.mic {
+    margin-left: 1.4rem;
+}
+
+.camera_img {
+    width: 1.8rem;
+    margin-left: 1.4rem;
+    margin-right: 1.4rem;
+}
+
+.settings {
+    color: white;
+    /* margin-left: 25rem; */
+    margin-right: 1rem;
+}
+
+.dots {
+    color: white;
+}
+
+.user {
+    color: white;
+    background: #0288d1;
+    margin-left: 1.4rem;
+    padding: 0.8rem 1rem;
+    border-radius: 50%;
+}
+
+.news {
+    display: flex;
+    color: white;
+    margin-left: 9rem;
+    margin-bottom: 1rem;
+}
+
+.news .a {
+    display: flex;
+}
+
+.news .a p{
+    /* border: 1px solid #39393b; */
+    margin-left: 1rem;
+    padding: 0.4rem 1rem;
+    border-radius: 5rem;
+}
+
+.news .b {
+    display: flex;
+    margin-left: 22rem;
+    color:  #39393b;
+}
+
+select {
+    color:  #39393b;
+ border: none;
+    background:  none;
+    margin-right: 0.7rem;
+}
+
+.line {
+    margin-right: 0.5rem;
+}
+
+.b p {
+    margin-top: 0.4rem;
+    margin-right: 2rem;
+}
+
+.profiles {
+    display: flex;
+}
+
+.profiles .a, .people_search .a, .wiki_links .a {
+    border-right: none;
+}
+
+.people_search {
+    display: flex;
+}
+
+.people_search_btn {
+    width: 20rem;
+    margin-top: 2rem;
+    text-align: center;
+    padding: 0.7rem 0;
+    border-radius: 5rem;
+    background:  #46474c;
+    border: none;
+    color: white;
+}
+
+.wiki_links .a, .wiki_links .b {
+    display: flex;
+}
+
+.forbes {
+    display: flex;
+}
+
+.num ul {
+    display: flex;
+}
+
+.num li {
+    list-style: none;
+    margin-left: 0.5rem;
+}
+
+.num a, .google a {
+    text-decoration: none;
+}
+
+.footer_a {
+    display: flex;
+    border-bottom: 1px solid #000;
+}
+
+.footer p .a {
+    border-right: 1px solid gray;
+} 
+
+.footer_b {
+    display: flex;
+}
+
+.footer_a a, .footer_b a {
+    text-decoration: none;
+}

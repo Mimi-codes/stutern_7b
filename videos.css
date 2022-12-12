@@ -1,0 +1,125 @@
+
+.vi {
+    margin: 2rem 0 1rem;
+
+}
+
+.vid {
+    color: white;
+       font-size: 1.5rem;
+    }
+
+    .videos .a, .videos .b, .videos .c {
+        display: flex;
+    }
+
+    .a_text {
+     margin-left: 2rem;
+    }
+
+    .a_text p {
+        color: gray;
+    }
+
+    .view_all_btn {
+        width: 18rem;
+        padding: 0.5rem 1rem;
+        border-radius: 20px;
+        border: none;
+        color: white;
+        margin-left: 8rem;
+        background-color: #303134;
+        margin-bottom: 3rem;
+    }
+
+    .also_ask p {
+color: gray;
+    }
+
+    .related h4 {
+        color: white;
+        font-size: 1.5rem;
+        margin-top: 3rem;
+    }
+
+    .related a {
+        margin-left: 1rem;
+    }
+
+    .net_worth {
+        margin-top: 3rem;
+    display: inline-grid;
+    grid-template-columns: auto auto;
+
+    }
+
+    .net_worth p {
+        margin-left: 1rem;
+        margin-right: 2rem;
+        margin-top: 0.5rem;
+        width: 20rem;
+        text-align: center;
+        border-radius: 25px;
+        padding: 1rem;
+        background:#303134;
+    }
+
+    .google {
+        font-size: 2rem;
+        margin-top: 3rem;
+    }
+
+    .google a {
+        margin-left: 25rem;
+        color: white;
+    }
+
+.num ul {
+    /* justify-content: center; */
+    margin-left: 26rem;
+    margin-top: 0.5rem;
+}
+
+    .num {
+        text-align: center;
+        display: flex;
+    }
+
+    .next {
+        margin-top: 0.5rem;
+        margin-left: 2.5rem;
+    }
+
+    footer {
+        background: #000;
+        padding: 1rem 0;
+        margin-top: 3rem;
+    }
+
+    .footer_a {
+        margin-left: 11rem;
+        padding-bottom: 0.5rem;
+    }
+
+    .footer_a .a {
+        color: gray;
+        border-right: 1px solid gray;
+    padding-right: 0.6rem;
+    }
+
+    .footer_a .b {
+        color: gray;
+        margin-left: 0.6rem;
+    }
+
+    .footer_b {
+        margin-left: 11rem;
+        margin-top: 0.6rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .footer_b a {
+        margin-right: 1rem;
+        color: gray;
+    }
+    /* color: #2049c1 */
